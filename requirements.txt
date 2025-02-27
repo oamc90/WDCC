@@ -1,0 +1,6 @@
+Django
+djongo
+dnspython
+pymongo
+whitenoise
+pytz

@@ -1,6 +1,12 @@
-Django
-djongo
-dnspython
-pymongo
-whitenoise
-pytz
+Django              5.1.6
+dnspython           2.7.0
+platformdirs        4.3.6
+psycopg2-binary     2.9.10
+pylint              3.3.4
+pylint-django       2.6.1
+pylint-plugin-utils 0.8.2
+pymongo             4.11.1
+python-dotenv       1.0.1
+pytz                2025.1
+sqlparse            0.5.3
+whitenoise          6.9.0
